@@ -10,11 +10,12 @@ srv  $  dsc.gg/mythandlegend
 &zwnj; 
 ![](https://komarev.com/ghpvc/?username=Tristancantcode0)
 <!---
-$ --- SOON
-$ --- SOON
+$ --- SOON - exertus mox ... in novissimo die hujus mensis
+$ --- SOON - tamen facillimum, omnium durissimum.
 $ --- SOON
 $ --- SOON
 $ --- SOON
 $ --- SOON
 $ --- SOON
 --->
+![](https://hit.yhype.me/github/profile?user_id=131329791)
