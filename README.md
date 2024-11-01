@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/TcZGXjH/your-image-name.png" width="147" alt="Your Image" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=Itr+%7C+Was+%7C+Here!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=Itr+%7C+Was+Here!)](https://git.io/typing-svg)
 
 
 
