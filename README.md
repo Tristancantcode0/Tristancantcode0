@@ -1,8 +1,8 @@
 <p align="left">
-  <img src="https://i.ibb.co/TcZGXjH/your-image-name.png" width="147" alt="Your Image" />
+  <img src="https://i.ibb.co/TcZGXjH" width="147" alt="Your Image" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=Itr+%7C+Was+Here!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=Itr+Was+Here!)](https://git.io/typing-svg)
 
 
 
